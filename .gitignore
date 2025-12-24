@@ -1,0 +1,6 @@
+StudentGroup.txt
+*.o
+*.out
+*.exe
+.DS_Store
+
